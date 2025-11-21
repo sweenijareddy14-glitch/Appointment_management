@@ -1,4 +1,4 @@
-# Hospital Appointment Scheduling System (C Program)
+ Hospital Appointment Scheduling System (C Program)
 
 ## **Abstract**
 The Hospital Appointment Scheduling System is a lightweight, terminal-based application developed entirely in C for managing patient appointments efficiently. It allows users to add new appointments, view existing ones, search by name or date, and delete appointments as needed. All data is stored persistently in a binary `appointments.dat` file, ensuring that information remains intact across multiple program sessions.
@@ -121,8 +121,29 @@ appointment_system.exe
 - All appointment records are saved in this file
 
 ---
-Screenshots
-1.Add New Appointment
+### **Screenshots**
+1.Main Menu
 
+<img width="1328" height="569" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/88d7a360-9ede-4545-81bd-a8df4d83169e" />
+
+2.Add New Appointment
+
+<img width="1425" height="606" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/4f8d1b5b-14ea-4011-832e-38dc255a06dc" />
+
+3.View All Appointments
+
+<img width="1519" height="836" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/58c81b69-9e44-4704-b932-3b48d040cf4a" />
+
+4.Search Appointment
+
+<img width="1296" height="749" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/25c5087f-0f7f-4d22-a5a6-c26ea86c611b" />
+
+5.Delete Appointment
+
+<img width="1353" height="594" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/ffab9c24-79f4-4a45-9760-aae35bf9852e" />
+
+6.Exit.
+
+<img width="1353" height="462" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/deb0525d-eb2d-4dcb-9422-cfb703c779d9" />
 
 
