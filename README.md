@@ -130,19 +130,24 @@ appointment_system.exe
 
 <img width="1425" height="606" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/4f8d1b5b-14ea-4011-832e-38dc255a06dc" />
 
-3.View All Appointments
+3.update appointments:
+
+<img width="1672" height="753" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/522300ad-dd77-49f7-888a-69797eeabbe7" />
+
+
+4.View All Appointments
 
 <img width="1519" height="836" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/58c81b69-9e44-4704-b932-3b48d040cf4a" />
 
-4.Search Appointment
+5.Search Appointment
 
 <img width="1296" height="749" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/25c5087f-0f7f-4d22-a5a6-c26ea86c611b" />
 
-5.Delete Appointment
+6.Delete Appointment
 
 <img width="1353" height="594" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/ffab9c24-79f4-4a45-9760-aae35bf9852e" />
 
-6.Exit.
+7.Exit.
 
 <img width="1353" height="462" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/deb0525d-eb2d-4dcb-9422-cfb703c779d9" />
 
